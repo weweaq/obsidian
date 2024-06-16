@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识星球/用户中心/git使用.md",
+                "file": "知识星球/用户中心/用户中心.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识星球/用户中心/git使用.md",
+                "file": "知识星球/用户中心/用户中心.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识星球/用户中心/git使用.md",
+                "file": "知识星球/用户中心/用户中心.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识星球/用户中心/git使用.md"
+                "file": "知识星球/用户中心/用户中心.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "10e1f34d46aa88f5",
   "lastOpenFiles": [
+    "知识星球/用户中心/git使用.md",
     "知识星球/用户中心/mysql的卸载.md",
     "尚婧考研计划/前期调研.md",
     "狂神说/MyBatis学习.md",
     "狂神说/Maven安装.md",
-    "知识星球/用户中心/git使用.md",
     "知识星球/用户中心/用户中心.md",
     "images/Pasted image 20240609155249.png",
     "images/Pasted image 20240609155145.png",

@@ -41,4 +41,14 @@ git clone xxx.git # 远程库拉取到本地
 git clone -b xx xxx.git # 远程库的xx分支拉取到本地
 
 git checkout xxx #  记得切换对应的分支
+
+# 其中clone到本地后，不需要再关联远程仓库，（clone就是和对应的仓库关联）
+```
+
+---
+
+```bash
+
+
+
 ```
