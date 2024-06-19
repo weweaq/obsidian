@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识星球/git使用.md",
+                "file": "2024-06-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识星球/git使用.md",
+                "file": "2024-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识星球/git使用.md",
+                "file": "2024-06-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +138,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识星球/git使用.md"
+                "file": "2024-06-19.md"
               }
             }
+          },
+          {
+            "id": "7a4760d885d036ba",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bcda83312f9ccd4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +172,18 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "10e1f34d46aa88f5",
   "lastOpenFiles": [
-    "知识星球/mysql的卸载.md",
-    "知识星球/git使用.md",
-    "知识星球/用户中心/mysql的卸载.md",
     "知识星球/用户中心/用户中心.md",
+    "2024-06-19.md",
+    "知识星球/用户中心/未命名.md",
+    "知识星球/mysql的卸载.md",
+    "知识星球/用户中心/mysql的卸载.md",
+    "知识星球/git使用.md",
     "知识星球/idea配置git.md",
     "mybatis/未命名",
     "images/Pasted image 20240614215652.png",
