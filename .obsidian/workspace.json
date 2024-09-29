@@ -4,43 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f824606e1490929f",
+        "id": "ce729f80fa1ee903",
         "type": "tabs",
         "children": [
           {
-            "id": "bf26656709d412ff",
+            "id": "407fa01467a68720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识星球/用户中心/2024-07-07 前端 用户管理功能.md",
+                "file": "mybatis/mybatis学习.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "db3a09edbd4c8890",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b909b9082d370d67",
+            "id": "0d76608c89ee5492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识星球/用户中心/2024-07-07 前端 用户管理功能.md",
+                "file": "我的文档/RK键盘.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "usage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e67492639059b73b",
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识星球/用户中心/2024-07-07 前端 用户管理功能.md",
+                "file": "mybatis/mybatis学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识星球/用户中心/2024-07-07 前端 用户管理功能.md",
+                "file": "mybatis/mybatis学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识星球/用户中心/2024-07-07 前端 用户管理功能.md"
+                "file": "mybatis/mybatis学习.md"
               }
             }
           },
@@ -163,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,43 +169,53 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b909b9082d370d67",
+  "active": "407fa01467a68720",
   "lastOpenFiles": [
-    "images/Pasted image 20240707234630.png",
-    "images/Pasted image 20240707234628.png",
-    "images/Pasted image 20240707234535.png",
-    "images/Pasted image 20240707232853.png",
-    "images/Pasted image 20240707232743.png",
-    "images/Pasted image 20240707232545.png",
-    "images/Pasted image 20240707162328.png",
-    "images/Pasted image 20240707162321.png",
-    "images/Pasted image 20240707160141.png",
-    "images/Pasted image 20240707160052.png",
-    "images/Pasted image 20240707160014.png",
-    "知识星球/用户中心/2024-07-07 前端 注销功能.md",
+    "images/Pasted image 20240929210412.png",
+    "images/Pasted image 20240929205625.png",
+    "images/Pasted image 20240929205548.png",
+    "images/Pasted image 20240928223240.png",
+    "images/Pasted image 20240928223236.png",
+    "images/Pasted image 20240928190326.png",
+    "images/Pasted image 20240928190250.png",
+    "images/Pasted image 20240928190143.png",
+    "images/Pasted image 20240928190140.png",
+    "images/Pasted image 20240928190135.png",
+    "images/Pasted image 20240928190126.png",
+    "idea使用/好用的配置.md",
+    "2024-06-19.md",
+    "idea使用/配置新工程的git.md",
+    "知识星球/mysql的卸载.md",
     "知识星球/用户中心/2024-07-07 前端 用户管理功能.md",
     "知识星球/用户中心/2024-07-07 后端代码优化 统一错误码以及全局异常切面.md",
-    "2024-04-03.md",
-    "calendar",
-    "2024-06-19.md",
-    "Welcome.md",
-    "狂神说/MyBatis学习.md",
+    "知识星球/用户中心/2024-07-07 前端 注销功能.md",
     "知识星球/用户中心/用户中心.md",
+    "知识星球/git使用.md",
+    "mybatis/springMvc学习/01-回顾servlet.md",
+    "mybatis/jsp、servlet以及tomcat.md",
+    "mybatis/mybatis学习.md",
+    "2024-04-03.md",
+    "Welcome.md",
+    "idea使用",
+    "狂神说/Maven安装.md",
+    "狂神说/MyBatis学习.md",
+    "我的博客/2405-搭建博客.md",
+    "掘金与技术文章摘抄/mysql/mysql常用命令.md",
+    "掘金与技术文章摘抄/mysql/mysql本地源码调试.md",
+    "掘金与技术文章摘抄/mysql/我的mysql信息.md",
+    "我的文档/RK键盘.md",
+    "我的文档",
+    "掘金与技术文章摘抄/实现一个自定义的Collector！.md",
+    "掘金与技术文章摘抄/mysql/mysql实战45讲.md",
+    "Jvm/狂神-jvm.md",
+    "掘金与技术文章摘抄/mysql",
+    "掘金与技术文章摘抄",
+    "calendar",
     "知识星球/calendar",
     "calendar",
-    "知识星球/git使用.md",
     "知识星球/用户中心/未命名.md",
-    "知识星球/mysql的卸载.md",
-    "知识星球/用户中心/mysql的卸载.md",
-    "知识星球/idea配置git.md",
     "mybatis/未命名",
-    "Jvm/狂神-jvm.md",
-    "尚婧考研计划/前期调研.md",
-    "狂神说/Maven安装.md",
     "images",
-    "知识星球/用户中心",
-    "未命名 1",
-    "知识星球",
-    "狂神说"
+    "知识星球/用户中心"
   ]
 }
