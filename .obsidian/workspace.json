@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "407fa01467a68720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mybatis/mybatis学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0d76608c89ee5492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我的文档/RK键盘.md",
+                "file": "idea使用/新建工作区.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e67492639059b73b",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mybatis/mybatis学习.md",
+                "file": "idea使用/新建工作区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mybatis/mybatis学习.md",
+                "file": "idea使用/新建工作区.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mybatis/mybatis学习.md"
+                "file": "idea使用/新建工作区.md"
               }
             }
           },
@@ -169,8 +156,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "407fa01467a68720",
+  "active": "0d76608c89ee5492",
   "lastOpenFiles": [
+    "idea使用/好用的配置.md",
+    "我的文档/RK键盘.md",
+    "idea使用/新建工作区.md",
+    "images/Pasted image 20241001002309.png",
+    "mybatis/mybatis学习.md",
     "images/Pasted image 20240929210412.png",
     "images/Pasted image 20240929205625.png",
     "images/Pasted image 20240929205548.png",
@@ -180,9 +172,6 @@
     "images/Pasted image 20240928190250.png",
     "images/Pasted image 20240928190143.png",
     "images/Pasted image 20240928190140.png",
-    "images/Pasted image 20240928190135.png",
-    "images/Pasted image 20240928190126.png",
-    "idea使用/好用的配置.md",
     "2024-06-19.md",
     "idea使用/配置新工程的git.md",
     "知识星球/mysql的卸载.md",
@@ -193,7 +182,6 @@
     "知识星球/git使用.md",
     "mybatis/springMvc学习/01-回顾servlet.md",
     "mybatis/jsp、servlet以及tomcat.md",
-    "mybatis/mybatis学习.md",
     "2024-04-03.md",
     "Welcome.md",
     "idea使用",
@@ -203,7 +191,6 @@
     "掘金与技术文章摘抄/mysql/mysql常用命令.md",
     "掘金与技术文章摘抄/mysql/mysql本地源码调试.md",
     "掘金与技术文章摘抄/mysql/我的mysql信息.md",
-    "我的文档/RK键盘.md",
     "我的文档",
     "掘金与技术文章摘抄/实现一个自定义的Collector！.md",
     "掘金与技术文章摘抄/mysql/mysql实战45讲.md",
@@ -213,7 +200,6 @@
     "calendar",
     "知识星球/calendar",
     "calendar",
-    "知识星球/用户中心/未命名.md",
     "mybatis/未命名",
     "images",
     "知识星球/用户中心"
