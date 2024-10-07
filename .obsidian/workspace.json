@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea使用/新建工作区.md",
+                "file": "idea使用/mysql的卸载.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idea使用/新建工作区.md",
+                "file": "idea使用/mysql的卸载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idea使用/新建工作区.md",
+                "file": "idea使用/mysql的卸载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idea使用/新建工作区.md"
+                "file": "idea使用/mysql的卸载.md"
               }
             }
           },
@@ -158,27 +158,33 @@
   },
   "active": "0d76608c89ee5492",
   "lastOpenFiles": [
+    "idea使用/Maven安装.md",
+    "idea使用/git使用.md",
+    "zzzimgs/Pasted image 20240609221435.png",
     "idea使用/好用的配置.md",
-    "我的文档/RK键盘.md",
-    "idea使用/新建工作区.md",
-    "images/Pasted image 20241001002309.png",
+    "zzzimgs/Pasted image 20240609223330.png",
+    "zzzimgs/Pasted image 20240609222759.png",
+    "zzzimgs/Pasted image 20240609222728.png",
+    "zzzimgs/Pasted image 20240609222624.png",
+    "zzzimgs/Pasted image 20240609222543.png",
+    "zzzimgs/Pasted image 20240609221320.png",
+    "idea使用/mysql的卸载.md",
+    "draw/未命名绘图.drawio",
+    "draw",
+    "新建文件夹",
     "mybatis/mybatis学习.md",
-    "images/Pasted image 20240929210412.png",
-    "images/Pasted image 20240929205625.png",
-    "images/Pasted image 20240929205548.png",
-    "images/Pasted image 20240928223240.png",
-    "images/Pasted image 20240928223236.png",
-    "images/Pasted image 20240928190326.png",
-    "images/Pasted image 20240928190250.png",
-    "images/Pasted image 20240928190143.png",
-    "images/Pasted image 20240928190140.png",
+    "images/Pasted image 20241001171341.png",
+    "images/Pasted image 20241001170543.png",
+    "images/Pasted image 20241001170217.png",
+    "知识星球/用户中心/用户中心.md",
+    "知识星球/用户中心/2024-07-07 前端 用户管理功能.md",
+    "idea使用/新建工作区.md",
+    "我的文档/RK键盘.md",
     "2024-06-19.md",
     "idea使用/配置新工程的git.md",
     "知识星球/mysql的卸载.md",
-    "知识星球/用户中心/2024-07-07 前端 用户管理功能.md",
     "知识星球/用户中心/2024-07-07 后端代码优化 统一错误码以及全局异常切面.md",
     "知识星球/用户中心/2024-07-07 前端 注销功能.md",
-    "知识星球/用户中心/用户中心.md",
     "知识星球/git使用.md",
     "mybatis/springMvc学习/01-回顾servlet.md",
     "mybatis/jsp、servlet以及tomcat.md",
@@ -192,16 +198,10 @@
     "掘金与技术文章摘抄/mysql/mysql本地源码调试.md",
     "掘金与技术文章摘抄/mysql/我的mysql信息.md",
     "我的文档",
-    "掘金与技术文章摘抄/实现一个自定义的Collector！.md",
-    "掘金与技术文章摘抄/mysql/mysql实战45讲.md",
-    "Jvm/狂神-jvm.md",
     "掘金与技术文章摘抄/mysql",
     "掘金与技术文章摘抄",
     "calendar",
     "知识星球/calendar",
-    "calendar",
-    "mybatis/未命名",
-    "images",
-    "知识星球/用户中心"
+    "calendar"
   ]
 }

@@ -76,3 +76,58 @@ ASSIGN_UUID (4):
 这些策略可以帮助你在不同场景下选择合适的主键生成方式，从而更好地管理和控制数据库中的数据。具体选择哪种策略取决于你的业务需求和数据库特性。
 
 
+---
+## 使用mybatis出现的问题
+
+今天按照例子敲了一个mybatis的例子，却一直报错，这里记录一下~
+
+背景：
+
+只是写了一个简单的select方法，按照要求写了对应的mapper.xml文件，却一直报错对应的xml找不到~
+
+![[Pasted image 20241001170217.png]]
+
+排查：
+
+一开始觉得是路径配错了，或者是环境不纯粹，其他mapper的影响等，一一查看都没发现问题，随后去看狂神的视频，发现了问题~
+
+实际代码运行的是编译出的target目录下的class文件，我们打开对应的文件夹去看，可以发现对应的dao文件夹下并没有对应的xml配置文件
+![[Pasted image 20241001170543.png]]
+
+原因就出在了maven的文件过滤机制
+
+在 Maven 导出资源，默认约定资源文件夹 resources 中的资源会自动导出，但是我们往往在项目中不仅仅会把所有的资源配置文件都放在resources中，同时我们也有可能放在项目中的其他位置，那么默认的maven项目构建编译时就不会把我们其他目录下的资源配置文件导出到target目录中，就会导致我们的资源配置文件读取失败，从而导致我们的项目报错出现异常，比如说尤其我们在使用MyBatis框架时，往往Mapper.xml配置文件都会放在dao包中和dao接口类放在一起的,那么执行程序的时候，其中的xml配置文件就一定会读取失败，不会生成到maven的target目录中。
+
+所以需要在pom中添加以下配置来约定导出哪些地方的文件：
+```xml
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>true</filtering>
+            </resource>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+    </build>
+
+```
+
+
+添加完成后，先clean原始的包，再调用方法，打的新包包含配置文件，不报这个错误了，问题解决。
+![[Pasted image 20241001171341.png]]
+
+经验:
+
+1. 实际执行的是target，并不是自己写的文件
+2. maven存在过滤机制，会把预期外的配置文件给过滤掉，编译后丢失
