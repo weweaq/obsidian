@@ -58,7 +58,7 @@ select VERSION();  # 查看数据库版本
 ## linux服务器
 
 <font color="#2DC26B">弹性公网IP： 120.46.38.52</font>
-<font color="#2DC26B">密码：123abcABC</font>
+<font color="#2DC26B">密码：123qweASD!!</font>
 
 ### 安装过程
 

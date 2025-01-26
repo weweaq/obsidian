@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ce729f80fa1ee903",
+        "id": "20b746d8e6c578eb",
         "type": "tabs",
         "children": [
           {
-            "id": "0d76608c89ee5492",
+            "id": "54ada52a9052063f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea使用/mysql的卸载.md",
+                "file": "知识星球/OJ平台/环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idea使用/mysql的卸载.md",
+                "file": "知识星球/OJ平台/环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "idea使用/mysql的卸载.md",
+                "file": "知识星球/OJ平台/环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idea使用/mysql的卸载.md"
+                "file": "知识星球/OJ平台/环境配置.md"
               }
             }
           },
@@ -156,52 +156,53 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0d76608c89ee5492",
+  "active": "54ada52a9052063f",
   "lastOpenFiles": [
+    "idea使用/配置新工程的git.md",
+    "知识星球/OJ平台/环境配置.md",
+    "掘金与技术文章摘抄/docker/docker安装.md",
+    "知识星球/OJ平台",
+    "images/Pasted image 20241208225234.png",
+    "images/Pasted image 20241208225152.png",
+    "images/Pasted image 20241208225122.png",
+    "我的博客/2405-搭建博客.md",
+    "掘金与技术文章摘抄/实现一个自定义的Collector！.md",
+    "掘金与技术文章摘抄/ubuntu.md",
+    "images/Pasted image 20241208105610.png",
+    "images/Pasted image 20241208104113.png",
+    "掘金与技术文章摘抄/mysql/我的mysql信息.md",
+    "掘金与技术文章摘抄/docker/问题.md",
+    "images/Pasted image 20241204221706.png",
+    "掘金与技术文章摘抄/docker",
+    "掘金与技术文章摘抄/mysql/mysql本地源码调试.md",
+    "docker学习/遇到的问题.md",
+    "images/Pasted image 20241204211718.png",
+    "docker学习",
+    "mybatis/mybatis-plus.md",
+    "drawio",
+    "images/Pasted image 20241117163005.png",
+    "images/Pasted image 20241117162842.png",
+    "mybatis/mybatis学习.md",
+    "mybatis/mybatis源码调试.md",
+    "mybatis/jsp、servlet以及tomcat.md",
+    "mybatis/mybatis是怎么读取配置的？.md",
+    "springboot/springboot 启动流程学习.md",
+    "images/Pasted image 20241103162841.png",
+    "2024-04-03.md",
+    "springboot",
     "idea使用/Maven安装.md",
-    "idea使用/git使用.md",
-    "zzzimgs/Pasted image 20240609221435.png",
-    "idea使用/好用的配置.md",
-    "zzzimgs/Pasted image 20240609223330.png",
-    "zzzimgs/Pasted image 20240609222759.png",
-    "zzzimgs/Pasted image 20240609222728.png",
-    "zzzimgs/Pasted image 20240609222624.png",
-    "zzzimgs/Pasted image 20240609222543.png",
-    "zzzimgs/Pasted image 20240609221320.png",
     "idea使用/mysql的卸载.md",
+    "idea使用/git使用.md",
+    "mybatis/springMvc学习/01-回顾servlet.md",
+    "idea使用/好用的配置.md",
     "draw/未命名绘图.drawio",
     "draw",
     "新建文件夹",
-    "mybatis/mybatis学习.md",
-    "images/Pasted image 20241001171341.png",
-    "images/Pasted image 20241001170543.png",
-    "images/Pasted image 20241001170217.png",
     "知识星球/用户中心/用户中心.md",
     "知识星球/用户中心/2024-07-07 前端 用户管理功能.md",
     "idea使用/新建工作区.md",
     "我的文档/RK键盘.md",
-    "2024-06-19.md",
-    "idea使用/配置新工程的git.md",
-    "知识星球/mysql的卸载.md",
-    "知识星球/用户中心/2024-07-07 后端代码优化 统一错误码以及全局异常切面.md",
-    "知识星球/用户中心/2024-07-07 前端 注销功能.md",
-    "知识星球/git使用.md",
-    "mybatis/springMvc学习/01-回顾servlet.md",
-    "mybatis/jsp、servlet以及tomcat.md",
-    "2024-04-03.md",
-    "Welcome.md",
     "idea使用",
-    "狂神说/Maven安装.md",
-    "狂神说/MyBatis学习.md",
-    "我的博客/2405-搭建博客.md",
-    "掘金与技术文章摘抄/mysql/mysql常用命令.md",
-    "掘金与技术文章摘抄/mysql/mysql本地源码调试.md",
-    "掘金与技术文章摘抄/mysql/我的mysql信息.md",
-    "我的文档",
-    "掘金与技术文章摘抄/mysql",
-    "掘金与技术文章摘抄",
-    "calendar",
-    "知识星球/calendar",
-    "calendar"
+    "我的文档"
   ]
 }

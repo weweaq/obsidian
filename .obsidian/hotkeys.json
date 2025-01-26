@@ -1,0 +1,14 @@
+{
+  "editing-toolbar:editor:toggle-code": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "editing-toolbar:codeblock": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ]
+}
